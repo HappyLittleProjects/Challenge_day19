@@ -11,7 +11,7 @@ import SwiftUI
 struct Challenge_day19App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TemperatureConverterView()
         }
     }
 }

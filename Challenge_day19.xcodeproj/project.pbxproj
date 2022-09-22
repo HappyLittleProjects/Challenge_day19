@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		095BF68F28DBCB8E000E5620 /* Challenge_day19App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095BF68E28DBCB8E000E5620 /* Challenge_day19App.swift */; };
-		095BF69128DBCB8E000E5620 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095BF69028DBCB8E000E5620 /* ContentView.swift */; };
+		095BF69128DBCB8E000E5620 /* TemperatureConverterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095BF69028DBCB8E000E5620 /* TemperatureConverterView.swift */; };
 		095BF69328DBCB92000E5620 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 095BF69228DBCB92000E5620 /* Assets.xcassets */; };
 		095BF69628DBCB92000E5620 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 095BF69528DBCB92000E5620 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		095BF68B28DBCB8E000E5620 /* Challenge_day19.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Challenge_day19.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		095BF68E28DBCB8E000E5620 /* Challenge_day19App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_day19App.swift; sourceTree = "<group>"; };
-		095BF69028DBCB8E000E5620 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		095BF69028DBCB8E000E5620 /* TemperatureConverterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureConverterView.swift; sourceTree = "<group>"; };
 		095BF69228DBCB92000E5620 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		095BF69528DBCB92000E5620 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				095BF68E28DBCB8E000E5620 /* Challenge_day19App.swift */,
-				095BF69028DBCB8E000E5620 /* ContentView.swift */,
+				095BF69028DBCB8E000E5620 /* TemperatureConverterView.swift */,
 				095BF69228DBCB92000E5620 /* Assets.xcassets */,
 				095BF69428DBCB92000E5620 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				095BF69128DBCB8E000E5620 /* ContentView.swift in Sources */,
+				095BF69128DBCB8E000E5620 /* TemperatureConverterView.swift in Sources */,
 				095BF68F28DBCB8E000E5620 /* Challenge_day19App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
